@@ -2,5 +2,6 @@
 
 int main(int argc, char[] argv)
 {
-    return 0;
+    int nNum = 0;
+    return nNum;
 }
